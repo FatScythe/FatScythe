@@ -22,13 +22,13 @@ I am a front-end developer passionate about implementing beautiful designs for t
 ### Socials <p align="left"> <a href="https://www.github.com/FatScythe " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdullahi-fahm-89312819a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/holadhayo " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
              
 
-<p align="left">
+
                           
-                                 <a href="https://www.github.com/FatScythe " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+
                           
-                                 <a href="https://www.linkedin.com/in/abdullahi-fahm-89312819a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+              
                           
-                      <a href="https://www.twitter.com/holadhayo " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 <!--
 **FatScythe/FatScythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
