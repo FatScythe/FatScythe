@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a full stack developer with a strong command of JavaScript and C#, I offer a comprehensive skill set that spans both front-end and back-end development. I have a very solid understanding of HTML, CSS and JS, can convert UI designs to code and I can also build server side applications with NodeJS and .Net using SQL or noSQL database. I love learning about new stuffs, especially in the tech world. I have a very positive view of life and I like to think most things are possible if you set your mind to it. :)
+I am a full stack developer with a strong command of JavaScript and C#, I offer a comprehensive skill set that spans both front-end and back-end development. I have a very solid understanding of HTML, CSS and JS, can convert UI designs to code and I can also build server side applications with ExpressJS, NestJS and .Net using SQL or noSQL database. I love learning about new stuffs, especially in the tech world. I have a very positive view of life and I like to think most things are possible if you set your mind to it. :)
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [holadhayo28@gmail.com](mailto:holadhayo28@gmail.com)
-* 🧠  I'm learning .NET, NextJS, and NestJS.
+* 🧠  I'm learning React Native.
 * 🤝  I'm open to collaborating on Intresting Projects
 
 ### Skills
